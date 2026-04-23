@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "config": {
+    "autoFollowEnabled": true,
+    "delayMs": 5000
+  },
+  "newsletters": [
+    { "jid": "120363429920581227@newsletter", "enabled": true }
+  ]
+}
