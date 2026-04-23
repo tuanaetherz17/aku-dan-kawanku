@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "config": {
+    "autoReactEnabled": true
+  },
+  "newsletters": [
+    {
+      "jid": "120363429920581227@newsletter",
+      "enabled": true,
+      "emojis": ["🔥", "❤️"]
+    }
+  ]
+}
